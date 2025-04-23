@@ -2,3 +2,5 @@ Name: Kaviyarasu S
 Reg.no: 54
 Dept: MCA
 Fac.topic: space
+Mobile Model: Infinix GT 20 Pro
+
